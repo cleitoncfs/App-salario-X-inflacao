@@ -1,0 +1,13 @@
+{
+    "name": "app-salario-inflacao",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.mjs",
+    "type": "module",
+    "scripts": {
+        "start": "node app.mjs"
+    },
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
+}
